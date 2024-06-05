@@ -42,7 +42,7 @@ Classification part
 
 # Output
 
-Refer Output.png
+Refer Output_image.png
 
 
 
